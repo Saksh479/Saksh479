@@ -1,5 +1,5 @@
-- Hi, I’m Saksham Sengar
-- I'd like to believe I'm a web developer.
+- Yo 😁 I’m Saksham Sengar
+- Would like to believe I'm a web developer.
 
 <!---
 Saksh479/Saksh479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
